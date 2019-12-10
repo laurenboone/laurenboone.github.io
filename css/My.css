@@ -2,8 +2,14 @@
         4. Home
 ================================*/
 
+.logo {
+        font-family: hawkins;
+        src: url(../fonts/Hawkins.woff);
+        font-size: 40px;
+      }
+
 .bg-home-half {
-    background-image: url("../images/Portfolio-background-cartoonfilter.png");
+    background-image: url("../images/Stock/Portfolio-background-cartoonfilter.png");
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -15,7 +21,32 @@
     letter-spacing: 3px;
 }
 
+.section {
+    background-color: #f8f9fa;
+}
+
+.pb-0 {
+    padding-bottom: 80px!important;
+}
+
+.title-heading {
+    padding-bottom: 40px;
+}
+
+.section1 {
+    padding: 40px;
+}
+
+.rolesList {
+    list-style-type: none;
+}
+
 /* CAN'T FIGURE THIS OUT
 #austin { 
     margin-bottom: 0px;
 }
+
+/* Center text with icons on homepage */
+/* .services-blog h4 {
+    margin-top: .5rem;
+} */
