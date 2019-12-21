@@ -9,3 +9,25 @@
     padding-right: .5rem;
     color: #6c757d;
 }
+
+/* Pink Button */
+.btn-custom-pink {
+    transition: all 0.4s;
+    background: #ee3158;
+    color: white;
+}
+
+/* Remove padding from top section */
+#feature {
+    padding-bottom: 0px;
+}
+
+/* Background color grey */
+#portfolio {
+    background-color: #f8f9fa;
+}
+
+/* Pink Ribbon Margin */
+#pinkribbon {
+    margin-top: 20px;
+}
