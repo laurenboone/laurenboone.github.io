@@ -46,7 +46,8 @@ body {
     text-align: center;
 }
 
-.col-lg-4 {
+/* NEED TO PUT AN ID ON THIS SO ALL COL LG 4'S DON'T CHANGE */
+#preheader {
     margin: auto;
 }
 
