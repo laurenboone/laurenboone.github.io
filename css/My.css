@@ -41,6 +41,15 @@
     list-style-type: none;
 }
 
+/* Footer and subfooter text centered on page */
+body {
+    text-align: center;
+}
+
+.col-lg-4 {
+    margin: auto;
+}
+
 /* CAN'T FIGURE THIS OUT
 #austin { 
     margin-bottom: 0px;
