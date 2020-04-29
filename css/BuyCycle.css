@@ -7,3 +7,20 @@
 .text-custom {
     color: #00ab44;
 }
+
+.dropDown {
+    background-color: grey;
+}
+
+.btn-link {
+    color: white;
+}
+
+.caseImg {
+    max-width: 100%;
+    height: auto;
+}
+
+#protoName {
+    color: #00ab44;
+}
